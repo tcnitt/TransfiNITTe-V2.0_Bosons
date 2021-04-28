@@ -16,3 +16,11 @@ python inference.py --image <image_path> --config <yolo_config_path> --weights <
 <br>
 <img src="result.jpeg">
 <br>
+
+# Team Members
+* Shrikumaran PB
+* Kailash J
+* Akshat K
+* Hemangani N
+* Akesh M
+* Sathya Prakash
